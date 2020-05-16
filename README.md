@@ -15,7 +15,7 @@ Sample response:
     {
         "id": 1,
         "name": "evens",
-        "description": "recognizes an even number of characters from the set [A-Za-z]",
+        "description": "recognizes an even number of characters from the set [A-Za-z0-9]",
         "examples": {
             "accept": [
                 "aa",
